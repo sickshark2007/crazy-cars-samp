@@ -1,4 +1,5 @@
 # crazy-cars
+#### By: skyMateus
 > [🐮](https://github.com/skyMateus/animals-samp/blob/main/cow.pwn) 
 > [🦈](https://github.com/skyMateus/animals-samp/blob/main/shark.pwn)
 > [🐢](https://github.com/skyMateus/animals-samp/blob/main/turtle.pwn)
