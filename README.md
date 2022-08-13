@@ -1,7 +1,8 @@
 # crazy-cars
-> 🐮 [cow.pwn](https://github.com/skyMateus/animals-samp/blob/main/cow.pwn) <br>
-> 🦈 [shark.pwn](https://github.com/skyMateus/animals-samp/blob/main/shark.pwn) | [Video](https://www.youtube.com/watch?v=qp3_kxW7sDQ)
-> 🐢 [cow.pwn](https://github.com/skyMateus/animals-samp/blob/main/turtle.pwn) <br>
+> [🐮](https://github.com/skyMateus/animals-samp/blob/main/cow.pwn) 
+> [🦈](https://github.com/skyMateus/animals-samp/blob/main/shark.pwn)
+> [🐢](https://github.com/skyMateus/animals-samp/blob/main/turtle.pwn)
+###### (click in emoji)
 
 ---
 
