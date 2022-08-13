@@ -3,6 +3,7 @@
 > [🦈](https://github.com/skyMateus/animals-samp/blob/main/shark.pwn)
 > [🐢](https://github.com/skyMateus/animals-samp/blob/main/turtle.pwn)
 > [🦌](https://github.com/skyMateus/animals-samp/blob/main/deer.pwn)
+🪑
 ###### (click in emoji)
 
 ---
